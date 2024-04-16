@@ -1,17 +1,17 @@
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=31tvn6y7tjpbzwvacw3iitologtq&cover_image=true&theme=default&bar_color=00ff00&bar_color_cover=true" alt="spotify" align="right"/>
 
 
-<h1 align="center"><b>ÊœÎ¹ Éª,Ê sÏ…Ð½Î±Î¹ÊŸ á´›á´‡á´„Êœ </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hie, I am Starboy👋</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Back-End+Developer,;Engineering+Student,;My+Hobby+Is+Coding,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome +to+my+profile..&hearts;++;Self-taught+Back-End+Developer,;Engineering+Student,;My+Hobby+Is+Coding,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
   </a>
 </p>
 
 
-[![Profile views](https://komarev.com/ghpvc/?username=SuhailTechInfo&label=Profile%20views)](https://github.com/SuhailTechInfo)
+[![Profile views](https://komarev.com/ghpvc/?username=Starboy263&label=Profile%20views)](https://github.com/Starboy263)
 
 
 
@@ -19,19 +19,19 @@
 
 
 
-- ðŸ’« Iâ€™m currently working on [Suhail-Md](https://github.com/SuhailTechInfo/Suhail-Md)
+I'm currently working on [Star-Md](https://github.com/Starboy263/Star-Md)
 
-- ðŸ“« [How to reach me!](https://github.com/SuhailTechInfo/SuhailTechInfo/blob/main/README.md#-how-to-reach-me)
+[How to reach me!](https://github.com/Starboy263/Starboy263/blob/main/README.md#-how-to-reach-me)
 
-- ðŸ“„ Know about my [experiences](https://github.com/ahsanbasharat4385?tab=repositories)
+Know about my [experiences](https://github.com/ahsanbasharat4385?tab=repositories)
 
-- ðŸ‘¯ Iâ€™m looking to collaborate on **JavaScript projects** 
+- ivm looking to collaborate on **JavaScript projects** 
 
-- ðŸŒ± Fun fact **I always wear my favorite pair of quirky socks while programming ðŸ˜‚**
+- Fun fact **I always wear my favorite hoodie while programming‚**
 
 ---
 
-## ðŸ“Š Languages and Tools
+## Languages and Tools
 
 <img alt="Development" width="400" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
 
