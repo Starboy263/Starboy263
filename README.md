@@ -66,33 +66,7 @@ Know about my [experiences](https://github.com/ahsanbasharat4385?tab=repositorie
 
 # ðŸ“« How to reach me:
 
-[![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923184474176)
+[![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/263780858655)
 
-[![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/SuhailTechInfo0) 
+[![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Starboy263) 
 
-[![Linked In](https://img.shields.io/badge/linkedIn-1b77FF.svg?style=for-the-badge&logo=linkedIn)](https://www.linkedin.com/in/m-suhail-6839552a2/) <br>
-
-<br>
-
-
-
-
-
-
-
-
-
-<!--
-**SuhailTechInfo/SuhailTechInfo** is a âœ¨ _special_ âœ¨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- ðŸ”­ Iâ€™m currently working on ...
-- ðŸŒ± Iâ€™m currently learning ...
-- ðŸ‘¯ Iâ€™m looking to collaborate on ...
-- ðŸ¤” Iâ€™m looking for help with ...
-- ðŸ’¬ Ask me about ...
-- ðŸ“« How to reach me: ...
-- ðŸ˜„ Pronouns: ...
-- âš¡ Fun fact: ...
--->
